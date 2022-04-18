@@ -1,1 +1,965 @@
-{"width":6,"height":6,"infoLayer":[{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"Castle Hexo","visible":true,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"Wizzos Tower","visible":true,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"Hex Farm","visible":true,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"Entrance to the forrest","visible":true,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":true,"custom":true},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"Dungeon Master Village","visible":true,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"","visible":false,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false},{"label":{"text":"Secret Camp","visible":true,"fontSize":30,"fontColor":"#000000","borderColor":"#000000","backgroundColor":"#FFFFFF","horizontalOffset":0,"verticalOffset":0,"opacity":1},"data":"","selected":false,"custom":false}],"topStaggered":false,"origin":{"x":0,"y":0},"layers":[{"label":"Base","visible":true,"tiles":[{"source":"HK-Classic:/HKC-Mountains/hk-classic_006.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Mountains/hk-classic_005.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Grass/Tall/hk-classic_089.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Grass/Tall/hk-classic_091.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Grass/Tall/hk-classic_091.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Grass/Short/hk-classic_052.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Mountains/hk-classic_005.png","rotation":0,"mirror":false},{"source":"Blank://012.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Grass/Short/hk-classic_054.png","rotation":0,"mirror":false},{"source":"Blank://016.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_038.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Grass/Short/hk-classic_053.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Mountains/hk-classic_002.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Mountains/hk-classic_004.png","rotation":0,"mirror":false},{"source":"Blank://014.png","rotation":0,"mirror":false},{"source":"Blank://012.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_042.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_042.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Mountains/hk-classic_006.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Swamp/hk-classic_023.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Grass/Tall/hk-classic_094.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_039.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_039.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_038.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Mountains/hk-classic_003.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Swamp/hk-classic_026.png","rotation":0,"mirror":false},{"source":"Blank://009.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_037.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_040.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_041.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Mountains/hk-classic_007.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Swamp/hk-classic_027.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Swamp/hk-classic_024.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_036.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Forest/hk-classic_037.png","rotation":0,"mirror":false},{"source":"Blank://016.png","rotation":0,"mirror":false}]},{"label":"Settlements","visible":true,"tiles":[null,null,null,null,null,null,null,{"source":"HK-Classic:/HKC-Icons/hk-classic_108.png","rotation":0,"mirror":false},null,{"source":"HK-Classic:/HKC-Icons/hk-classic_116.png","rotation":0,"mirror":false},null,null,null,null,{"source":"HK-Classic:/HKC-Icons/hk-classic_162.png","rotation":0,"mirror":false},null,null,null,null,null,null,null,null,null,null,null,{"source":"HK-Classic:/HKC-Icons/hk-classic_114.png","rotation":0,"mirror":false},null,null,null,null,null,null,null,null,{"source":"HK-Classic:/HKC-Icons/hk-classic_164.png","rotation":0,"mirror":false}]},{"label":"Roads","visible":true,"tiles":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,{"source":"HK-Classic:/HKC-Utilities/Roads/hk-classic_088.png","rotation":-5,"mirror":false},{"source":"HK-Classic:/HKC-Utilities/Roads/hk-classic_087.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Utilities/Trail/hk-classic_144.png","rotation":0,"mirror":false},{"source":"HK-Classic:/HKC-Utilities/Trail/hk-classic_146.png","rotation":-1,"mirror":false},null,null,{"source":"HK-Classic:/HKC-Utilities/Roads/hk-classic_084.png","rotation":-1,"mirror":false},{"source":"HK-Classic:/HKC-Utilities/Trail/hk-classic_146.png","rotation":-3,"mirror":false},{"source":"HK-Classic:/HKC-Utilities/Trail/hk-classic_147.png","rotation":0,"mirror":false},null,null,null,null,null,{"source":"HK-Classic:/HKC-Utilities/Trail/hk-classic_144.png","rotation":-5,"mirror":false},null,null,null,null,null,{"source":"HK-Classic:/HKC-Utilities/Trail/hk-classic_145.png","rotation":-3,"mirror":false},null]},{"label":"FOW","visible":true,"tiles":[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]}],"coordinates":{"color":"#FFFFFF","position":"bottom","size":18,"show":false},"flatTop":false,"background":"#FFFFFF"}
+{
+  "width": 6,
+  "height": 6,
+  "infoLayer": [
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "Castle Hexo",
+        "visible": true,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "Wizzos Tower",
+        "visible": true,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "Hex Farm",
+        "visible": true,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "Entrance to the forrest",
+        "visible": true,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": true,
+      "custom": true
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "Dungeon Master Village",
+        "visible": true,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "",
+        "visible": false,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "label": {
+        "text": "Secret Camp",
+        "visible": true,
+        "fontSize": 30,
+        "fontColor": "#000000",
+        "borderColor": "#000000",
+        "backgroundColor": "#FFFFFF",
+        "horizontalOffset": 0,
+        "verticalOffset": 0,
+        "opacity": 1
+      },
+      "data": "",
+      "selected": false,
+      "custom": false
+    }
+  ],
+  "topStaggered": false,
+  "origin": {
+    "x": 0,
+    "y": 0
+  },
+  "layers": [
+    {
+      "label": "Base",
+      "visible": true,
+      "tiles": [
+        {
+          "source": "HK-Classic:/HKC-Mountains/hk-classic_006.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Mountains/hk-classic_005.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Grass/Tall/hk-classic_089.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Grass/Tall/hk-classic_091.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Grass/Tall/hk-classic_091.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Grass/Short/hk-classic_052.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Mountains/hk-classic_005.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "Blank://012.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Grass/Short/hk-classic_054.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "Blank://016.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_038.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Grass/Short/hk-classic_053.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Mountains/hk-classic_002.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Mountains/hk-classic_004.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "Blank://014.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "Blank://012.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_042.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_042.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Mountains/hk-classic_006.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Swamp/hk-classic_023.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Grass/Tall/hk-classic_094.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_039.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_039.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_038.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Mountains/hk-classic_003.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Swamp/hk-classic_026.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "Blank://009.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_037.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_040.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_041.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Mountains/hk-classic_007.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Swamp/hk-classic_027.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Swamp/hk-classic_024.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_036.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Forest/hk-classic_037.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "Blank://016.png",
+          "rotation": 0,
+          "mirror": false
+        }
+      ]
+    },
+    {
+      "label": "Settlements",
+      "visible": true,
+      "tiles": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "source": "HK-Classic:/HKC-Icons/hk-classic_108.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        null,
+        {
+          "source": "HK-Classic:/HKC-Icons/hk-classic_116.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        null,
+        null,
+        null,
+        null,
+        {
+          "source": "HK-Classic:/HKC-Icons/hk-classic_162.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "source": "HK-Classic:/HKC-Icons/hk-classic_114.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "source": "HK-Classic:/HKC-Icons/hk-classic_164.png",
+          "rotation": 0,
+          "mirror": false
+        }
+      ]
+    },
+    {
+      "label": "Roads",
+      "visible": true,
+      "tiles": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "source": "HK-Classic:/HKC-Utilities/Roads/hk-classic_088.png",
+          "rotation": -5,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Utilities/Roads/hk-classic_087.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Utilities/Trail/hk-classic_144.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Utilities/Trail/hk-classic_146.png",
+          "rotation": -1,
+          "mirror": false
+        },
+        null,
+        null,
+        {
+          "source": "HK-Classic:/HKC-Utilities/Roads/hk-classic_084.png",
+          "rotation": -1,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Utilities/Trail/hk-classic_146.png",
+          "rotation": -3,
+          "mirror": false
+        },
+        {
+          "source": "HK-Classic:/HKC-Utilities/Trail/hk-classic_147.png",
+          "rotation": 0,
+          "mirror": false
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "source": "HK-Classic:/HKC-Utilities/Trail/hk-classic_144.png",
+          "rotation": -5,
+          "mirror": false
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "source": "HK-Classic:/HKC-Utilities/Trail/hk-classic_145.png",
+          "rotation": -3,
+          "mirror": false
+        },
+        null
+      ]
+    },
+    {
+      "label": "FOW",
+      "visible": true,
+      "tiles": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "coordinates": {
+    "color": "#FFFFFF",
+    "position": "bottom",
+    "size": 18,
+    "show": false
+  },
+  "flatTop": false,
+  "background": "#FFFFFF"
+}

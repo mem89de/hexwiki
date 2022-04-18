@@ -25,6 +25,11 @@
             <version>${revision}</version>
         </dependency>
         <dependency>
+            <groupId>de.mem89</groupId>
+            <artifactId>hexwiki-examples</artifactId>
+            <version>${revision}</version>
+        </dependency>
+        <dependency>
             <groupId>info.picocli</groupId>
             <artifactId>picocli</artifactId>
         </dependency>

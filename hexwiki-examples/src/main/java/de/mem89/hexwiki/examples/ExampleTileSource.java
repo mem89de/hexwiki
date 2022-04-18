@@ -1,4 +1,4 @@
-package de.mem89.hexwiki.example;
+package de.mem89.hexwiki.examples;
 
 import de.mem89.hexwiki.core.DefaultTile;
 import de.mem89.hexwiki.core.Tile;
