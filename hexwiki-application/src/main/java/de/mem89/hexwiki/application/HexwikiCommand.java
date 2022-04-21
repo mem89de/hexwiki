@@ -3,9 +3,9 @@ package de.mem89.hexwiki.application;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
 import de.mem89.hexwiki.core.CoreModule;
-import de.mem89.hexwiki.core.LogProcessorModule;
 import de.mem89.hexwiki.core.TileProcessorLoop;
-import de.mem89.hexwiki.hexkit.HexkitModule;
+import de.mem89.hexwiki.example.logtileprocessor.LogProcessorModule;
+import de.mem89.hexwiki.hexkit.filereader.HexkitFileReaderModule;
 import picocli.CommandLine;
 
 import java.io.File;
@@ -26,7 +26,7 @@ public class HexwikiCommand implements Callable<Integer> {
         Injector injector = Guice.createInjector(
                 new CoreModule(),
                 new LogProcessorModule(),
-                new HexkitModule(file));
+                new HexkitFileReaderModule(file));
         injector.getInstance(TileProcessorLoop.class).process();
 
         return 0;

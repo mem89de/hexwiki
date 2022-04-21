@@ -1,4 +1,4 @@
-package de.mem89.hexwiki.hexkit.model;
+package de.mem89.hexwiki.hexkit.filereader.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

@@ -1,4 +1,4 @@
-package de.mem89.hexwiki.hexkit;
+package de.mem89.hexwiki.hexkit.filereader;
 
 import com.google.inject.AbstractModule;
 import com.google.inject.Provides;
@@ -7,10 +7,10 @@ import de.mem89.hexwiki.core.TileSource;
 
 import java.io.File;
 
-public class HexkitModule extends AbstractModule {
+public class HexkitFileReaderModule extends AbstractModule {
     private File mapFile;
 
-    public HexkitModule(File mapFile) {
+    public HexkitFileReaderModule(File mapFile) {
         this.mapFile = mapFile;
     }
 

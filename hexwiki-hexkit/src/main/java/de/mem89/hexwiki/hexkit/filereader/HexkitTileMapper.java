@@ -1,8 +1,8 @@
-package de.mem89.hexwiki.hexkit;
+package de.mem89.hexwiki.hexkit.filereader;
 
 import de.mem89.hexwiki.core.DefaultTile;
 import de.mem89.hexwiki.core.Tile;
-import de.mem89.hexwiki.hexkit.model.InfoLayerElement;
+import de.mem89.hexwiki.hexkit.filereader.model.InfoLayerElement;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.Optional;

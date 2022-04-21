@@ -1,5 +1,6 @@
 package de.mem89.hexwiki.core;
 
+import de.mem89.hexwiki.core.Tile;
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
 

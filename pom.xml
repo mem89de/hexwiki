@@ -98,6 +98,7 @@
     <modules>
         <module>hexwiki-application</module>
         <module>hexwiki-core</module>
+        <module>hexwiki-example</module>
         <module>hexwiki-hexkit</module>
     </modules>
 </project>

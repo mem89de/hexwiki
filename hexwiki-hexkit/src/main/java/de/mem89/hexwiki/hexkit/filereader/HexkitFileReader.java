@@ -1,4 +1,4 @@
-package de.mem89.hexwiki.hexkit;
+package de.mem89.hexwiki.hexkit.filereader;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.inject.Inject;
@@ -6,8 +6,7 @@ import com.google.inject.name.Named;
 import de.mem89.hexwiki.core.Tile;
 import de.mem89.hexwiki.core.TileSource;
 import de.mem89.hexwiki.core.TileSourceException;
-import de.mem89.hexwiki.hexkit.model.HexkitMapFile;
-import de.mem89.hexwiki.hexkit.model.InfoLayerElement;
+import de.mem89.hexwiki.hexkit.filereader.model.HexkitMapFile;
 
 import java.io.File;
 import java.io.IOException;
