@@ -26,7 +26,7 @@
         </dependency>
         <dependency>
             <groupId>de.mem89</groupId>
-            <artifactId>hexwiki-examples</artifactId>
+            <artifactId>hexwiki-hexkit</artifactId>
             <version>${revision}</version>
         </dependency>
         <dependency>
