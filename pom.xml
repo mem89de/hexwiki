@@ -30,6 +30,7 @@
         <guice.version>5.1.0</guice.version>
         <jackson.version>2.13.2.2</jackson.version>
         <commons-lang3.version>3.12.0</commons-lang3.version>
+        <velocity-engine.version>2.3</velocity-engine.version>
     </properties>
 
     <dependencyManagement>
@@ -64,7 +65,11 @@
                 <artifactId>commons-lang3</artifactId>
                 <version>${commons-lang3.version}</version>
             </dependency>
-
+            <dependency>
+                <groupId>org.apache.velocity</groupId>
+                <artifactId>velocity-engine-core</artifactId>
+                <version>${velocity-engine.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
@@ -99,6 +104,7 @@
         <module>hexwiki-application</module>
         <module>hexwiki-core</module>
         <module>hexwiki-example</module>
+        <module>hexwiki-html</module>
         <module>hexwiki-hexkit</module>
     </modules>
 </project>

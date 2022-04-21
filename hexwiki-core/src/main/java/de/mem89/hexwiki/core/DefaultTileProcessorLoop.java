@@ -8,10 +8,11 @@ public class DefaultTileProcessorLoop implements TileProcessorLoop {
     @Inject
     private TileSource tileSource;
     @Inject
-    private TileProcessor tileProcessor;
+    private TileProcessorFactory tileProcessorFactory;
 
     @Override
     public void process() {
+        TileProcessor tileProcessor = tileProcessorFactory.create();
         Iterator<Tile> tileIterator = tileSource.getTiles();
 
         while (tileIterator.hasNext()) {
